@@ -1,0 +1,15 @@
+{
+  "name": "tower-interpolation-directive",
+  "repo": "tower/interpolation-directive",
+  "description": "Tower Interpolation Directive component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "tower/directive": "*"
+  },
+  "development": {
+    "visionmedia/mocha": "*"
+  },
+  "scripts": ["index.js"],
+  "license": "MIT"
+}
