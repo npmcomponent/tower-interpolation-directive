@@ -3,7 +3,7 @@
  * Module dependencies.
  */
 
-var directive = require('tower-directive');
+// commented out by npm-component: var directive = require('tower-directive');
 
 /**
  * Expose `directive('interpolation')`.
